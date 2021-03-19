@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @COTEP-DEV
+- 👀 I’m an organization managing account.
+- 🌱 I’m currently not a real person, sadly.
+- 💞️ I’m looking to collaborate on awesome projects with you all guys !
+- 📫 You can reach me at cotep.developer@gmail.com
